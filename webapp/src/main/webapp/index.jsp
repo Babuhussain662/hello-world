@@ -5,6 +5,6 @@
 <marquee direction="down" width="100%" height="100px" scrollamount="10>Devops Engineer babu</marquee>
 
 
-<marquee direction="right" width="100%" height="100px" scrollamount="25">Devops Engineer babu</marquee>
+<marquee direction="right" width="100%" height="100px" scrollamount="20">Devops Engineer babu</marquee>
 
 <marquee direction="left" width="100%" height="100px" scrollamount="30">Devops Engineer babu</marquee>
